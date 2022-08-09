@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karutaexperiment/static/css/main.7a1e22b3.css",
+    "main.js": "/karutaexperiment/static/js/main.e51e3d16.js",
+    "static/js/787.487661b7.chunk.js": "/karutaexperiment/static/js/787.487661b7.chunk.js",
+    "index.html": "/karutaexperiment/index.html",
+    "main.7a1e22b3.css.map": "/karutaexperiment/static/css/main.7a1e22b3.css.map",
+    "main.e51e3d16.js.map": "/karutaexperiment/static/js/main.e51e3d16.js.map",
+    "787.487661b7.chunk.js.map": "/karutaexperiment/static/js/787.487661b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a1e22b3.css",
+    "static/js/main.e51e3d16.js"
+  ]
+}
