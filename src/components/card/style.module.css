@@ -1,0 +1,35 @@
+/* .Card {
+    width: 60px;
+    height: 80px;
+} */
+
+.Active {
+    transform:scale(1.2);
+}
+
+.Image {
+    width: 60px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.Image:hover {
+    /* transform:scale(1.2);
+    transition: all 0.3s; */
+    cursor: grab;
+}
+
+.Image:active {
+    cursor: grabbing;
+    transform:scale(1.2);
+}
+
+/* .Griditem {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  } */

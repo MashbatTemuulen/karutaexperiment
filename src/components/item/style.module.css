@@ -1,0 +1,21 @@
+.Item {
+    /* background-color: green; */
+    font-size: 30px;
+    text-align: center;
+    width: 60px;
+    height: 80px;
+    padding:0;
+    margin: 0;
+}
+
+.Slot, .EmpySlot, .ActiveSlots {
+    background-color: silver;
+}
+
+.EmpySlot {
+    background-color: Transparent;
+}
+
+.ActiveSlots {
+    background-color: rgb(113, 165, 113);
+}
